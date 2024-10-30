@@ -1,6 +1,9 @@
-### Olá, eu sou o Nicholas! 🖳 🤖
+## Olá, eu sou o Nicholas! 🖳 🤖
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-m)
+
+### Tecnologias
+[!HTML5[(https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
 
 
 
