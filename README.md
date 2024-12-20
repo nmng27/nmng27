@@ -16,6 +16,9 @@ Hoje, percebo que tenho uma facilidade interessante para modelar bancos de dados
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
 
+### Estatísticas ###
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nmng27&show_icons=true&hide_title=true&hide=prs&count_private=true)
+
 ### Contato ###
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-mangussi/)
 
