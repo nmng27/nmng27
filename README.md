@@ -1,19 +1,21 @@
-## Olá, eu sou o Nicholas! 🖳 🤖
+#Bem vindo ao meu Github#
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-m)
+### Um pouco sobre mim ###
 
-### Um pouco sobre mim!
-Olá, eu sou o Nicholas! Iniciei minha jornada na programação em 2023 e, desde então, tenho me aprofundado cada vez mais no fascinante universo da tecnologia. Explorei diversas linguagens, como Python, Java e C#, e sou apaixonado por entender como as coisas funcionam. Além disso, tenho bastante facilidade com bancos de dados, o que me permite trabalhar de forma eficaz com dados e otimizar aplicações. Estou sempre em busca de novos desafios e oportunidades para expandir meu conhecimento e habilidades.
+Eu sou Nicholas, tenho 22 anos, sou formado em Análise e Desenvolvimento de Sistemas pela FIAP (2024) e, atualmente, estou cursando uma formação em Design Gráfico na Escola Saga (2024-2025). Cresci sendo estimulado pelo universo da tecnologia e, em 2023, me foi oferecida a oportunidade de dar o primeiro passo na minha jornada acadêmica e profissional, onde aprendi os principais conceitos de desenvolvimento de software. Passei por tópicos como desenvolvimento front-end, tanto puro quanto com frameworks como ReactJS, desenvolvimento de back-end, incluindo aplicações legadas em Web Services utilizando JSP e .NET, até aplicações mais inovadoras com o desenvolvimento de APIs usando tecnologias como Spring, .NET e FastAPI. Além disso, estudei temas relacionados ao desenvolvimento de software, como técnicas de gerenciamento de projetos utilizando metodologias como Kanban e Scrum, modelagem de bancos de dados relacionais e não relacionais, conhecimentos em bancos de dados SQL na plataforma Oracle e NoSQL com MongoDB, além de análise de dados com Power BI.
 
+Hoje, percebo que tenho uma facilidade interessante para modelar bancos de dados SQL e NoSQL, back-end, desenvolvimento de produtos e análise de dados. Espero que, no futuro, eu possa me aprofundar cada vez mais nesses campos.
 
+### Tecnologias ###
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![.NET](https://img.shields.io/badge/-.NET%206.0-blueviolet)
+![Spring boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
+![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
 
-### Tecnologias
-![HTML5](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://shields.io/badge/react-black?logo=react&style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-
+### Contato ###
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicholas-mangussi/)
 
