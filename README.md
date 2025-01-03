@@ -11,9 +11,13 @@ Hoje, percebo que tenho uma facilidade interessante para modelar bancos de dados
 ![.NET](https://img.shields.io/badge/-.NET%206.0-blueviolet)
 ![Spring boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=flat&logo=pandas)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-000000?style=flat&logo=python)
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
 
 ### Estatísticas ###
