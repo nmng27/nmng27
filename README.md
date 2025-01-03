@@ -17,7 +17,6 @@ Hoje, percebo que tenho uma facilidade interessante para modelar bancos de dados
 ![SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927)
 
 ### Estatísticas ###
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=nmng27&show_icons=true&hide_title=true&hide=prs&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nmng27&layout=compact&theme=radical)
 
 ### Contato ###
